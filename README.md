@@ -12,9 +12,9 @@ Features
 💅 Smooth transitions and animations
 📦 Optimized for speed and accessibility
 
-![Screenshot_20250622_151743_Chrome](https://github.com/user-attachments/assets/205906ff-a08a-4b31-9d03-1778b347c645)
-![Screenshot 2025-06-22 151830](https://github.com/user-attachments/assets/7d944b37-e026-46fb-825b-898b7b95e8ee)
 
+![Screenshot 2025-06-22 151830](https://github.com/user-attachments/assets/7d944b37-e026-46fb-825b-898b7b95e8ee)
+![Screenshot_20250622_151743_Chrome](https://github.com/user-attachments/assets/20359f98-b4f2-470f-894b-f7bf14d36156)
 
 
 
