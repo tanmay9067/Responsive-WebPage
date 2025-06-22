@@ -79,6 +79,7 @@ hr{
 html,body{
     height: 100vh;
     width: 100vw;
+    background-color: rgba(233, 233, 249, 0.756);
 }
 #contentoverall{
     display: grid;
@@ -87,7 +88,9 @@ html,body{
     padding-bottom: 170px;
     align-items: center;
     margin-left: 20px;
-    }
+    color: #36353571;
+    perspective: 1000px;
+}
 #outer2{
     padding-bottom:55px;
 }
@@ -100,14 +103,22 @@ html,body{
     display: flex;
     flex-direction:column;
     align-items: center;
-
     flex-shrink: 0;
+}
+.card:hover{
+    transform: scale(1.2); 
+    color: rgb(243, 242, 242);
+    background-color: rgb(64, 64, 64);
 }
 img{
     height: 90%;
     width: 90%;
     margin: 3%;
     border-radius: 2%;
+    opacity: .9;
+}
+img:hover{
+    opacity: 1;
 }
 .content1{
     text-align: center;
